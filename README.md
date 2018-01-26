@@ -23,12 +23,12 @@ If you want a version with images: [Go to our Medium link](https://goo.gl/RrhkgZ
 1. [Video Stabilization ](#video-stabilization)
 1. [Object Detection ](#object-detection)
 1. [Self Driving Car ](#self-driving-car)
-1. [Recommendation Al ](#recommendation-aI)
-1. [Gaming Al ](#gaming-aI)
-1. [Chess Al ](#chess-aI)
-1. [Medical Al ](#medical-aI)
-1. [Speech Al ](#speech-aI)
-1. [Music Al ](#music-aI)
+1. [Recommendation Al ](#recommendation-ai)
+1. [Gaming Al ](#gaming-ai)
+1. [Chess Al ](#chess-ai)
+1. [Medical Al ](#medical-ai)
+1. [Speech Al ](#speech-ai)
+1. [Music Al ](#music-ai)
 1. [Natural Language Processing ](#natural-language-processing)
 1. [Prediction ](#prediction)
 
@@ -93,13 +93,13 @@ B) Computer Vision: [Deep Learning and Computer Vision A-Z™: Learn OpenCV, SSD
 
 <br>
 
-###  Recommendation Al 
+###  Recommendation AI 
 * [Spotify’s Discover Weekly: How machine learning finds your new music](https://hackernoon.com/spotifys-discover-weekly-how-machine-learning-finds-your-new-music-19a41ab76efe?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
 * [Artwork Personalization at Netflix](https://medium.com/netflix-techblog/artwork-personalization-c589f074ad76?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
 
 <br>
 
-###  Gaming Al 
+###  Gaming AI
 * [MariFlow - Self-Driving Mario Kart w/Recurrent Neural Network](https://www.youtube.com/watch?v=Ipi40cb_RsI?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
 * [OpenAI Baselines: DQN. Reproduce reinforcement learning algorithms with performance on par with published results.](https://blog.openai.com/openai-baselines-dqn?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
 * [Reinforcement Learning on Dota 2 [Part II]](https://blog.openai.com/more-on-dota-2?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
@@ -110,7 +110,7 @@ B) Computer Vision: [Deep Learning and Computer Vision A-Z™: Learn OpenCV, SSD
 
 <br>
 
-###  Chess Al 
+###  Chess AI 
 * [Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm](https://arxiv.org/abs/1712.01815?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
 * [AlphaGo Zero: Learning from scratch | DeepMind](https://deepmind.com/blog/alphago-zero-learning-scratch?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
 * [How Does DeepMind's AlphaGo Zero Work?](https://www.youtube.com/watch?v=vC66XFoN4DE?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
@@ -118,7 +118,7 @@ B) Computer Vision: [Deep Learning and Computer Vision A-Z™: Learn OpenCV, SSD
 
 <br>
 
-###  Medical Al 
+###  Medical AI 
 * [CheXNet: Radiologist-Level Pneumonia Detection on Chest X-Rays with Deep Learning](https://stanfordmlgroup.github.io/projects/chexnet?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
 * [Can you improve lung cancer detection? 2nd place solution for the Data Science Bowl 2017.](http://juliandewit.github.io/kaggle-ndsb2017?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
 * [Improving Palliative Care with Deep Learning - Andrew Ng](https://stanfordmlgroup.github.io/projects/improving-palliative-care?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
@@ -126,7 +126,7 @@ B) Computer Vision: [Deep Learning and Computer Vision A-Z™: Learn OpenCV, SSD
 
 <br>
 
-###  Speech Al 
+###  Speech AI 
 * [Tacotron: A Fully End-to-End Text-To-Speech Synthesis Model - Data Scientists at Google](https://arxiv.org/abs/1703.10135?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
 * [Sequence Modeling with CTC](https://distill.pub/2017/ctc/?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
 * [Deep Voice: Real-time Neural Text-to-Speech - Baidu Silicon Valley AI Lab](https://arxiv.org/abs/1702.07825?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
@@ -134,7 +134,7 @@ B) Computer Vision: [Deep Learning and Computer Vision A-Z™: Learn OpenCV, SSD
 
 <br>
 
-###  Music Al 
+###  Music AI 
 * [Computer evolves to generate baroque music!](https://www.youtube.com/watch?v=SacogDL_4JU?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
 * [Make your own music with WaveNets: Making a Neural Synthesizer Instrument](https://magenta.tensorflow.org/nsynth-instrument?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
 
