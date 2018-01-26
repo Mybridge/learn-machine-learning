@@ -139,6 +139,7 @@ B) Computer Vision: [Deep Learning and Computer Vision A-Z™: Learn OpenCV, SSD
 * [Make your own music with WaveNets: Making a Neural Synthesizer Instrument](https://magenta.tensorflow.org/nsynth-instrument?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
 
 <br>
+
 ###  Natural Language Processing 
 * [Learning to communicate: Agents developing their own language - OpenAI Research](https://openai.com/blog/learning-to-communicate?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
 * [Big Picture Machine Learning: Classifying Text with Neural Networks and TensorFlow](https://medium.freecodecamp.com/big-picture-machine-learning-classifying-text-with-neural-networks-and-tensorflow-d94036ac2274?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
