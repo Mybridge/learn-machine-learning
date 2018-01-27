@@ -11,7 +11,7 @@ This directory has 15 key topics as shown below.
 
 <img src="chart.png" width="1400" alt="Mybridge"></a>
 
-If you want a version with images: [Go to our Medium link](https://goo.gl/RrhkgZcc)
+If you want a version with images: [Go to our Medium link](https://goo.gl/GLdu6r)
 
 <br>
 
